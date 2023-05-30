@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login con Facebook</string>
+
+
+    <string name="facebook_app_id">640356841301577</string>
+    <string name="fb_login_protocol_scheme">fb640356841301577</string>
+    <string name="facebook_client_token">b8921bbbcde813816b34f342a43c766c</string>
+    <string name="profile_picture" />
+    <string name="Compartir">compartir</string>
+
+
+</resources>
